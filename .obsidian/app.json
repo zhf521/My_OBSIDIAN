@@ -1,0 +1,19 @@
+{
+  "defaultViewMode": "preview",
+  "spellcheck": true,
+  "attachmentFolderPath": "10-附件",
+  "userIgnoreFilters": [
+    "00-模板/",
+    "10-附件/",
+    "00-模板/ReactJS/",
+    "00-模板/script/"
+  ],
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "alphabetical",
+  "autoConvertHtml": true,
+  "promptDelete": false,
+  "communityPluginSortOrder": "download",
+  "useMarkdownLinks": false,
+  "vimMode": false,
+  "showLineNumber": true
+}

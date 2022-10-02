@@ -1,0 +1,30 @@
+{
+  "choices": [
+    {
+      "id": "096c1fca-65c1-49bc-881d-322c9a51465c",
+      "name": "刷新主页",
+      "type": "Macro",
+      "command": true,
+      "macroId": "f1d65bbf-9c27-429a-9879-ce315a8de114"
+    }
+  ],
+  "macros": [
+    {
+      "name": "刷新主页",
+      "id": "f1d65bbf-9c27-429a-9879-ce315a8de114",
+      "commands": [
+        {
+          "name": "fetchhomepage",
+          "type": "UserScript",
+          "id": "7c908f93-0319-4fcc-8f81-82e7a1242081",
+          "path": "00-模板/script/fetchhomepage.js",
+          "settings": {
+            "City name": ""
+          }
+        }
+      ],
+      "runOnStartup": true
+    }
+  ],
+  "inputPrompt": "single-line"
+}

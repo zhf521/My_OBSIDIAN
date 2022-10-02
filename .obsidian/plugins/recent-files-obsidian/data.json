@@ -1,0 +1,90 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Home",
+      "path": "00-模板/Home.md"
+    },
+    {
+      "basename": "Git教程",
+      "path": "80-开发工具/Git教程.md"
+    },
+    {
+      "basename": "数组",
+      "path": "100-算法/数组.md"
+    },
+    {
+      "basename": "数据结构",
+      "path": "100-算法/数据结构.md"
+    },
+    {
+      "basename": "VSCode",
+      "path": "80-开发工具/VSCode.md"
+    },
+    {
+      "basename": "C语言经典代码",
+      "path": "50-C语言/C语言经典代码.md"
+    },
+    {
+      "basename": "C语言常用函数",
+      "path": "50-C语言/C语言常用函数.md"
+    },
+    {
+      "basename": "C语言",
+      "path": "50-C语言/C语言.md"
+    },
+    {
+      "basename": "50-C语言",
+      "path": "50-C语言/50-C语言.md"
+    },
+    {
+      "basename": "vim",
+      "path": "80-开发工具/vim.md"
+    },
+    {
+      "basename": "Node JS",
+      "path": "80-开发工具/Node JS.md"
+    },
+    {
+      "basename": "Emmet",
+      "path": "80-开发工具/Emmet.md"
+    },
+    {
+      "basename": "Android Studio",
+      "path": "80-开发工具/Android Studio.md"
+    },
+    {
+      "basename": "30-电脑使用",
+      "path": "30-电脑使用/30-电脑使用.md"
+    },
+    {
+      "basename": "彩色时钟",
+      "path": "00-模板/彩色时钟.md"
+    },
+    {
+      "basename": "obsidian使用技巧",
+      "path": "20-博客写作/obsidian使用技巧.md"
+    },
+    {
+      "basename": "MarkDown教程",
+      "path": "20-博客写作/MarkDown教程.md"
+    },
+    {
+      "basename": "GitHub图床",
+      "path": "20-博客写作/GitHub图床.md"
+    },
+    {
+      "basename": "博客搭建",
+      "path": "20-博客写作/博客搭建.md"
+    },
+    {
+      "basename": "阿里云对象存储搭建图床",
+      "path": "20-博客写作/阿里云对象存储搭建图床.md"
+    }
+  ],
+  "omittedPaths": [
+    "\\.png",
+    "\\.jpg",
+    "\\.gif"
+  ],
+  "maxLength": 20
+}

@@ -1,0 +1,412 @@
+/* This snippet was generated  on Blue Topaz example */
+/* https://github.com/cumany/Blue-topaz-examples */
+.is-mobile .myhome  img[alt="inlL"]
+{
+	display:none;
+}
+.is-mobile .myhome .cus_pic
+{
+	display:contents;
+}
+.is-mobile .myhome .admonition-grid>.admonition-content-holder>.admonition-content {	columns: 200px 2;
+     -moz-columns: 200px 2;
+    -webkit-columns: 200px 2;
+}
+body.blockquote-style-quotation-mark.is-mobile .markdown-preview-view.myhome blockquote em{
+    text-indent:2em !important;
+}
+body.blockquote-style-quotation-mark.is-mobile .markdown-preview-view.myhome blockquote {
+    padding-left:5px;
+}
+.is-mobile .myhome .admonition-kanban ul>li:not(.task-list-item) {
+    padding:5px !important;
+} 
+.is-mobile .myhome .admonition-content button {
+	width:initial;
+    padding:0px;
+}
+.is-mobile .myhome audio{
+    margin-left: 50%;
+    margin-top: 30px;
+}
+.myhome .obsidian-banner-wrapper > .obsidian-banner img.banner-image {
+    cursor: initial;
+	pointer-events: none;
+}
+.myhome .cus_pic {
+  margin-top: 28px!important;
+  min-width: 140px;
+}
+.myhome .cus_pic img{
+  max-height: 320px;
+}
+.myhome audio {
+  margin-left: calc(5%);
+  margin-top: 20px;
+  filter: sepia(20%) saturate(80%) grayscale(1) contrast(99%) invert(12%);
+  -moz-opacity: 0.2;
+  opacity: 0.15;
+  width: 110px;
+  height: 20px;
+  position: absolute;
+}
+.myhome audio::-webkit-media-controls-mute-button {
+  display: none !important;
+  }	
+  .myhome audio::-webkit-media-controls-current-time-display
+  {
+    display: none !important;
+    }
+    .myhome audio::-webkit-media-controls-seek-back-button
+    {
+      display: none !important;
+      }
+    .myhome audio::-webkit-media-controls-seek-forward-button
+    {
+      display: none !important;
+      }
+      .myhome audio::-webkit-media-controls-rewind-button{
+        display: none !important;
+      }
+.myhome audio::-webkit-media-controls-time-remaining-display
+{
+  display: none !important;
+  }
+.myhome audio::-webkit-media-controls-timeline
+{
+  display: none !important;
+  }
+  .myhome audio::-webkit-media-controls-timeline-container
+  {
+    display: none !important;
+  }
+  .myhome audio::-webkit-media-controls-volume-slider {
+  display: none !important;
+  }
+  .myhome audio::-webkit-media-controls-volume-control-container.closed {
+  display: none !important;
+  }
+  .myhome audio::-webkit-media-controls-volume-control-container{
+  display: none !important;
+  }
+  .myhome .embedded-backlinks
+  {
+    display:none;
+  }
+  .myhome .obsidian-banner-icon .icon-box img
+  {
+    content: url("https://api.wolai.com/v1/icon");
+  }
+  .myhome.markdown-preview-view .markdown-preview-section
+  {
+    padding-bottom: 2em !important;
+  }
+  .admonition-kanban li 
+  {
+    font-size: 13.33px;
+  }
+.tasks progress{
+  background:#f0ec05; 
+    margin-left: -6px;
+    float: left;
+    margin-top: 8px;
+    overflow: hidden;
+    height: 8px;
+}
+.tasks progress.yellow::-moz-progress-bar { 
+  background: #e78f0c; 
+}
+.tasks progress.green::-webkit-progress-value  {
+  background: #46da48; 
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+}
+.myhome .callout-content .block-language-dataviewjs>p::first-letter{
+  color: var(--text-accent);
+  font-size: 2em;
+  margin: 0 .2em 0 0;
+}
+.myhome .admonition-blank .admonition-content{
+  -webkit-mask-image: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #ffffff 25%, #ffffff 75%, rgba(255, 255, 255, 0) 100%);
+  margin: 0 auto;
+}
+.myhome .admonition-blank .admonition-content ul {
+  text-align: center;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 100%);
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+}
+.myhome .admonition-blank .admonition-content ul li {
+  display: inline-block;
+}
+.myhome .admonition-blank .admonition-content ul li a {
+  padding: 8px;
+  text-transform:uppercase;
+  color: var(--text-normal);
+  font-size: var(--font-size-edit-normal);
+  text-decoration: none;
+  display: block;
+}
+.myhome .admonition-blank .admonition-content ul li a:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--text-accent-hover);
+}
+/*主页天气动画位置*/
+.myhome .svg-contain {
+  display: block;
+  float: left;
+  max-width: 120px;
+  height: 120px;
+} 
+@media (max-width: 1024px) {
+  .myhome .svg-contain {
+    height: 180px;
+  }
+}
+.myhome a
+{
+color: var(--text-accent);
+}
+.myhome [data-callout-metadata*="banner"] {
+  margin-top: -5em;
+}
+/*catgif*/
+#bongo-cat {
+  height: 13vh;
+  width: 15vw;
+  margin-top:1em;
+  bottom: 0;
+  float: right;
+}
+.typing-animation {
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-duration: 1200ms;
+}
+path#f1-l1 {
+  animation-name: typing-f1-l1;
+}
+path#f1-l2 {
+  animation-name: typing-f1-l2;
+}
+path#f1-l3 {
+  animation-name: typing-f1-l3;
+}
+path#f2-l4 {
+  animation-name: typing-f2-l4;
+}
+path#f2-l5 {
+  animation-name: typing-f2-l5;
+}
+path#f2-l6 {
+  animation-name: typing-f2-l6;
+}
+path#f3-l7 {
+  animation-name: typing-f3-l7;
+}
+path#f3-l8 {
+  animation-name: typing-f3-l8;
+}
+path#f3-l9 {
+  animation-name: typing-f3-l9;
+}
+@keyframes typing-f3-l9 {
+  0% {
+    d: path("M8,25L8,25");
+  }
+  82% {
+    d: path("M8,25L8,25");
+  }
+  92% {
+    d: path("M8,25L96,25");
+  }
+  100% {
+    d: path("M8,25L96,25");
+  }
+}
+@keyframes typing-f3-l8 {
+  0% {
+    d: path("M8,13L8,13");
+  }
+  68% {
+    d: path("M8,13L8,13");
+  }
+  82% {
+    d: path("M8,13L146,13");
+  }
+  100% {
+    d: path("M8,13L146,13");
+  }
+}
+@keyframes typing-f3-l7 {
+  0% {
+    d: path("M0,1L0,1");
+  }
+  60% {
+    d: path("M0,1L0,1");
+  }
+  68% {
+    d: path("M0,1L96,1");
+  }
+  100% {
+    d: path("M0,1L96,1");
+  }
+}
+@keyframes typing-f2-l6 {
+  0% {
+    d: path("M8,25L8,25");
+  }
+  54% {
+    d: path("M8,25L8,25");
+  }
+  60% {
+    d: path("M8,25L69,25");
+  }
+  100% {
+    d: path("M8,25L69,25");
+  }
+}
+@keyframes typing-f2-l5 {
+  0% {
+    d: path("M8,13L8,13");
+  }
+  44% {
+    d: path("M8,13L8,13");
+  }
+  54% {
+    d: path("M8,13L114,13");
+  }
+  100% {
+    d: path("M8,13L114,13");
+  }
+}
+@keyframes typing-f2-l4 {
+  0% {
+    d: path("M0,1L0,1");
+  }
+  30% {
+    d: path("M0,1L0,1");
+  }
+  44% {
+    d: path("M0,1L136,1");
+  }
+  100% {
+    d: path("M0,1L136,1");
+  }
+}
+@keyframes typing-f1-l3 {
+  0% {
+    d: path("M8,25L8,25");
+  }
+  24% {
+    d: path("M8,25L8,25");
+  }
+  30% {
+    d: path("M8,25L61,25");
+  }
+  100% {
+    d: path("M8,25L61,25");
+  }
+}
+@keyframes typing-f1-l2 {
+  0% {
+    d: path("M8,13L8,13");
+  }
+  14% {
+    d: path("M8,13L8,13");
+  }
+  24% {
+    d: path("M8,13L124,13");
+  }
+  100% {
+    d: path("M8,13L124,13");
+  }
+}
+@keyframes typing-f1-l1 {
+  0% {
+    d: path("M0,1L0,1");
+  }
+  14% {
+    d: path("M0,1L160,1");
+  }
+  100% {
+    d: path("M0,1L160,1");
+  }
+}
+#paw-right--up,
+#paw-right--down,
+#paw-left--up,
+#paw-left--down {
+  animation: blink 300ms infinite;
+}
+#paw-right--up,
+#paw-left--down {
+  animation-delay: 150ms;
+}
+@keyframes blink {
+  0% {
+    opacity: 0;
+  }
+  49% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+#laptop__code {
+  transform: rotateX(-37deg) rotateY(-46deg) rotateZ(-23deg) translateX(8px) translateY(20px) translateZ(-50px);
+}
+#laptop__cover
+{
+  mix-blend-mode: hard-light;
+}
+.theme-dark #eyes,
+.theme-dark #mouth path
+{
+  stroke: #ffcc81;
+  fill: #ffcc81;
+}
+.theme-dark #head__outline path:first-child,
+.theme-dark  :is(#paw-left--up,#paw-right--up)  g path:first-child,
+.theme-dark  :is(#paw-left--down,#paw-right--down) path:first-child
+{
+  fill: #45465e;
+}
+.theme-dark  #laptop__cover polygon,
+.theme-dark  #laptop__cover path
+{
+  fill: #4f4f51e1;
+  stroke: #0f0f10;
+}
+.theme-dark #laptop__terminal
+{
+  stroke: #569cfa;
+  fill: none;
+}
+.theme-dark #table path:first-child
+{
+  fill: #45465e88;
+  stroke: #45465e;
+}
+.theme-dark #laptop__base polygon
+{
+  fill: #4f4f5188;
+  stroke: #01070f;
+}
+.theme-dark #laptop__keyboard
+{
+  stroke: #569cfa;
+  fill: #569cfa;
+}
+ #head__outline path:first-child,
+ :is(#paw-left--up,#paw-right--down) g path:first-child,
+ :is(#paw-left--down,#paw-right--down)  path:first-child
+{
+  fill: #fff;
+}
+#head__outline path:nth-child(2)
+{
+ fill: #4f4f519f;
+}
+/*end---catgif*/

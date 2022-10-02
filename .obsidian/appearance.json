@@ -1,0 +1,21 @@
+{
+  "cssTheme": "Blue Topaz",
+  "enabledCssSnippets": [
+    "彩色时钟样式",
+    "weather天气样式",
+    "【图标】预览网址加图标 - External Link Icons",
+    "排除跟目录，Zoottelkeeper",
+    "【图标】iconfont",
+    "custom-admonitions.5497c7",
+    "代码块",
+    "天气样式",
+    "图谱",
+    "home (cat)",
+    "home 样式(cat)"
+  ],
+  "translucency": false,
+  "textFontFamily": "霞鹜文楷",
+  "baseFontSize": 18,
+  "monospaceFontFamily": "JetBrains Mono",
+  "theme": "moonstone"
+}

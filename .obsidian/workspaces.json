@@ -1,0 +1,149 @@
+{
+  "workspaces": {
+    "Home": {
+      "main": {
+        "id": "2ea721c7bde383f5",
+        "type": "split",
+        "children": [
+          {
+            "id": "bf47a59e04e921da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-模板/Home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3ab810438a009a7a",
+        "type": "split",
+        "children": [
+          {
+            "id": "3cb5f8e9f91f1287",
+            "type": "tabs",
+            "dimension": 54.215304798962386,
+            "children": [
+              {
+                "id": "51d08be5755487aa",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b8f1ccab476d771d",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "203be0789705ebc4",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "4b7494ea35685ba0",
+            "type": "tabs",
+            "dimension": 45.784695201037614,
+            "children": [
+              {
+                "id": "444342d1cb8a22b6",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "226403b3212b0b1d",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 223
+      },
+      "right": {
+        "id": "4a1b8c84727bf499",
+        "type": "split",
+        "children": [
+          {
+            "id": "5bf87333d7943649",
+            "type": "tabs",
+            "dimension": 42.138364779874216,
+            "children": [
+              {
+                "id": "b1dfede89c79ff7a",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "84fa3a71ec308b11",
+                "type": "leaf",
+                "state": {
+                  "type": "quiet-outline",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "f8829ea29ae9d9ce",
+            "type": "tabs",
+            "dimension": 57.861635220125784,
+            "children": [
+              {
+                "id": "846de7c7f7e12d7d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00-模板/彩色时钟.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 309.6000061035156
+      },
+      "active": "b1dfede89c79ff7a"
+    }
+  },
+  "active": "Home"
+}

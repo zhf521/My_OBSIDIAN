@@ -1,0 +1,29 @@
+.graph-view.color-fill {
+    /* 小圆点的颜色 */
+    color: #48466D;
+}
+
+.graph-view.color-circle {
+    /* 鼠标放置时，圆圈的颜色 */
+    color: #3D84A8;
+}
+
+.graph-view.color-line {
+    /* 连线颜色 */
+    color:#B0A4E3;
+}
+
+.graph-view.color-text {
+    /* 文字颜色 */
+    color: #725E82;
+}
+
+.graph-view.color-fill-highlight {
+    /* 鼠标放置时，小圆点的颜色 */
+    color:;
+}
+
+.graph-view.color-line-highlight {
+    /* 鼠标放置时，连线的颜色 */
+    color: ;
+}
